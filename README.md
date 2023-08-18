@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é Igor, nickname "apart"
 
-<!--
-**apartigor/apartigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Tenho 20 anos e moro em Curitiba-PR! ❄️
+ - Atualmente cursando 2° período de Engenharia de Software!! 🌵
+ - Interessado em masterizar front-end! 🌀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens estudadas/estudando
+<div style="display: inline_block"><br>
+  <img align="center alt="Igor-C" height="40" width="40" src="https://carlacastanho.github.io/Material-de-APC/assets/images/linguagem-C.png">
+  <img align="center alt="Igor-JS" height="40" width="40" src="https://hcode.azureedge.net/courses/JSFULL/squad_1632447026532.png">
+  <img align="center alt="Igor-HT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center alt="Igor-CS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center alt="Igor-CS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+</div>
