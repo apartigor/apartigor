@@ -4,7 +4,6 @@
  - Atualmente cursando 2° período de Engenharia de Software!! 🌵
  - Interessado em masterizar front-end! 🌀
 
-<div>
 
 ### Habilidades e Experiências
  <p>• Experiência em logística utilizando o SAP</p>
@@ -13,8 +12,7 @@
  <p>• Aprendizado rápido</p>
  <p>• Comprometimento</p>
  <p>• Sempre curioso e disposto a apreender</p>
- 
-</div>
+ <p>• Inglês - B2</p>
 
 ### Linguagens estudadas/estudando
 <div style="display: inline_block"><br>
