@@ -2,7 +2,7 @@
 
  - Tenho 20 anos e moro em Curitiba-PR! ❄️
  - Atualmente cursando 2° período de Engenharia de Software!! 🌵
- - Interessado em masterizar front-end! 🌀
+ - Interessado em full-stack dev! 🌀
 
 
 ### Habilidades e Experiências
