@@ -2,7 +2,7 @@
 
  - Tenho 21 anos e moro em Curitiba-PR! ❄️
  - Atualmente cursando 3° período de Engenharia de Software!! 🌵
- - Interessado em full-stack dev! 🌀
+ - Interessado em full-stack dev e me especializar em banco de dados! 🌀
 
 
 ### Habilidades e Experiências
