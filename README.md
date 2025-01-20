@@ -3,6 +3,7 @@
  - Tenho 22 anos e moro em Curitiba-PR! ❄️
  - Atualmente cursando 5° período de Engenharia de Software!! 🌵
  - Interessado em full-stack dev e me especializar em banco de dados! 🌀
+ - Estagiando Inteligência de Mercado pela Driva!! 🚀
 
 
 ### Habilidades e Experiências
@@ -22,7 +23,10 @@
  <img align="center alt="Igor-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center alt="Igor-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center alt="Igor-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+ <img align="center alt="Igor-POSTGRESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
  <img align="center alt="Igor-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+ <img align="center alt="Igor-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+ <img align="center alt="Igor-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 ## Entre em contato
