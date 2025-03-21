@@ -7,13 +7,12 @@
 
 
 ### Habilidades e Experiências
- <p>• Experiência em processamento de dados utilizando SAP</p>
- <p>• Trabalho em Equipe</p>
- <p>• Pro-atividade</p>
- <p>• Aprendizado rápido</p>
- <p>• Comprometimento</p>
- <p>• Sempre curioso e disposto a apreender</p>
- <p>• Inglês Avançado</p>
+- Experiência em análise e processamento de dados utilizando SQL e Excel
+- Experiência no desenvolvimento de APIs em C# com .NET e banco de dados SQLite
+- Experiência no desenvolvimento de front-end com React e TypeScript
+- Experiência na criação e gerenciamento de visualizações de dados com Power BI
+- Experiência com versionamento de código utilizando Git
+- Conhecimento em linguagens como Java, JavaScript, Python, C# e C
 
 ### Linguagens estudadas/estudando
 <div style="display: inline_block"><br>
