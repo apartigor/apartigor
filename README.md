@@ -1,7 +1,7 @@
 ## Olá, meu nome é Igor, nickname "apart"
 
  - Tenho 22 anos e moro em Curitiba-PR! ❄️
- - Atualmente cursando 5° período de Engenharia de Software!! 🌵
+ - Atualmente cursando 5° período de Engenharia de Software!! 💻
  - Interessado em full-stack dev e me especializar em banco de dados! 🌀
  - Estagiando Inteligência de Mercado pela Driva!! 🚀
 
