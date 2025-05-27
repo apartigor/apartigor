@@ -3,12 +3,13 @@
  - Tenho 22 anos e moro em Curitiba! ❄️
  - Atualmente cursando 5° período de Engenharia de Software!! 💻
  - Interessado em full-stack development, especializando-me em back-end development e database management! 🌀
- - Estagiando Inteligência de Mercado pela Driva!! 🚀
+ - Desenvolvedor backend na ID Brasil!! 🆔
 
 
 ### Habilidades e Experiências
 - Experiência em análise e processamento de dados utilizando SQL e Excel
-- Experiência no desenvolvimento de APIs em C# com .NET e banco de dados SQLite
+- Experiência no desenvolvimento de APIs em C# com .NET e banco de dados MySQL
+- Experiência no desenvolvimento de APIs em Python com Django REST e banco de dados PostgresSQL
 - Experiência no desenvolvimento de front-end com React e TypeScript
 - Experiência na criação e gerenciamento de visualizações de dados com Power BI
 - Experiência com versionamento de código utilizando Git
@@ -26,6 +27,8 @@
  <img align="center alt="Igor-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
  <img align="center alt="Igor-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
  <img align="center alt="Igor-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+ <img align="center alt="Igor-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+ <img align="center alt="Igor-DJANGO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg">      
 </div>
 
 ## Entre em contato
