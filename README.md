@@ -14,7 +14,7 @@
 - Experience with version control using Git  
 - Knowledge of languages such as Java, JavaScript, Python, C#, and C  
 
-### Languages studied/studying
+### Technologies studied/studying
 <div style="display: inline_block"><br>
  <img align="center" alt="Igor-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
  <img align="center" alt="Igor-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
