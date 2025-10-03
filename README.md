@@ -27,7 +27,9 @@
  <img align="center" alt="Igor-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
  <img align="center" alt="Igor-REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
  <img align="center" alt="Igor-PYTHON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
- <img align="center" alt="Igor-DJANGO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg">      
+ <img align="center" alt="Igor-DJANGO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg">
+ <img align="center" alt="Igor-PANDAS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">      
+ 
 </div>
 
 ## Get in touch
