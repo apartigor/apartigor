@@ -1,7 +1,7 @@
 ## Hello, my name is Igor, nickname "apart"
 
-- I'm 22 years old and live in Curitiba! ❄️  
-- Currently in the 6th semester of Software Engineering!! 💻  
+- I'm 23 years old and live in Curitiba! ❄️  
+- Currently in the 7th semester of Software Engineering!! 💻  
 - Interested in back-end development and database management! 🌀  
 - Jr. Backend developer at IDX Company!! 🆔  
 
